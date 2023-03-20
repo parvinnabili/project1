@@ -16,3 +16,5 @@
 
 ### The SQL code for creating the database: https://github.com/parvinnabili/project1/blob/b64f67c4f464ce1de73e453078eba84658813710/BankOfAzerbaijan.sql
 ### The SQL code for queries: https://github.com/parvinnabili/project1/blob/b64f67c4f464ce1de73e453078eba84658813710/BankOfAzerbaijan_queries.sql
+
+[^1]: This project was delivered as an assignment for Data Modelling and Analytics module at South East Technological University.

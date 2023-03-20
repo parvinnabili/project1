@@ -6,6 +6,9 @@
 - Logical Data Model
 - Database Design
 
-### The Conceptual Data Model Design of the Bank is as follows:
+### The ER Diagram of the Bank is as follows:
 
 ![ER Model](https://github.com/parvinnabili/project1/blob/b8df707869d46e8dc78ab0a53687fdfcf333a3ad/Banking%20ER%20diagram.drawio.png)
+
+### The SQL code for creating the database: https://github.com/parvinnabili/project1/blob/b64f67c4f464ce1de73e453078eba84658813710/BankOfAzerbaijan.sql
+### The SQL code for queries: https://github.com/parvinnabili/project1/blob/b64f67c4f464ce1de73e453078eba84658813710/BankOfAzerbaijan_queries.sql
